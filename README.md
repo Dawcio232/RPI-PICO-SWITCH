@@ -1,2 +1,1 @@
-# RPI-PICO-SWITCH
-A Rasberry Pi pico 2 w. Cool project, that i did.
+![Static Badge](https://img.shields.io/badge/Language-Circuit_Python-blue)
